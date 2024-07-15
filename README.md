@@ -1,6 +1,6 @@
 | Adelie penguins                     | Chinstrap penguins                  | Gentoo penguins                     |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![penguin](Adelie.jpg)              | ![penguin](Chinstrap.jpg)           | ![penguin](Gentoo.jpg)    
+| ![penguin](Adelie.jpg) width="60%" height="50%"| ![penguin](Chinstrap.jpg)           | ![penguin](Gentoo.jpg)    
 
 
 # Penguin Analysis
