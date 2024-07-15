@@ -38,15 +38,4 @@ from IPython.display import IFrame
 IFrame(src='Biscoe_islands_map.html', width=600, height=600)
 ```
 
-
-
-
-
-<iframe
-    width="600"
-    height="600"
-    src="Biscoe_islands_map.html"
-    frameborder="0"
-    allowfullscreen
-
-></iframe>
+![penguin](Biscoe_islands_map.png)
