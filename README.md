@@ -39,3 +39,5 @@ IFrame(src='Biscoe_islands_map.html', width=600, height=600)
 ```
 
 ![penguin](Biscoe_islands_map.png)
+
+![penguin](Map_zoom_out.png)
