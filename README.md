@@ -3,7 +3,7 @@
 | ![penguin](Adelie.jpg)| ![penguin](Chinstrap.jpg)           | ![penguin](Gentoo.jpg)    
 
 
-# Penguin Analysis
+# Penguin Analysis for Insights into Sustainability Measures
 
 *Purpose*\
 To perform a statistical analysis on three sets of penguin data, build linear regression models in order to predict penguin future expectations (body mass) for sustainability requirements, specifically feeding, and build a K-means partitioning model to provide insights into the underlying structure within the dataset and confirm if a clustering by sex and species is most expedient  
